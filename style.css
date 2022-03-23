@@ -1,0 +1,17 @@
+*{
+    font-style: italic;
+}h1{
+    font-style: oblique;color: aqua;
+}
+h2{
+    box-sizing: border-box;
+}
+.note a{color: black;}
+note li a { color: aquamarine;}
+li>a{color: darkseagreen;} 
+p a{
+    color: chartreuse;
+}
+h1+p{
+    color: blue;
+}
